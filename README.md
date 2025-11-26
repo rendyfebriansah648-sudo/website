@@ -355,7 +355,7 @@
   <footer style="position: fixed; bottom: 20px; color: #fff; z-index: 10;">
     Dibuat dengan ❤️ oleh <strong>Nama Rendy, kelas XI RPL</strong>
   </footer>
-
+  
   <script>
     // --- Global State & Setup ---
     let secretNumber = 0;
