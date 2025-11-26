@@ -353,7 +353,7 @@
   </div>
 
   <footer style="position: fixed; bottom: 20px; color: #fff; z-index: 10;">
-    Dibuat dengan ❤️ oleh <strong>Nama Kamu / Rendy, kelas XI RPL</strong>
+    Dibuat dengan ❤️ oleh <strong>Nama Rendy, kelas XI RPL</strong>
   </footer>
 
   <script>
